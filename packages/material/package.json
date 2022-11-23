@@ -1,0 +1,18 @@
+{
+  "name": "@reactive/material",
+  "version": "1.0.0",
+  "description": "Production-ready foundational React components",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "18.0.25",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.3"
+  }
+}
