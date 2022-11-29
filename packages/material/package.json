@@ -1,5 +1,5 @@
 {
-  "name": "@reactiveui/material",
+  "name": "@reactiveuxui/material",
   "version": "1.0.0",
   "description": "Production-ready foundational React components",
   "main": "./dist/cjs/index.js",
